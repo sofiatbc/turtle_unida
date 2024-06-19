@@ -48,5 +48,7 @@ cmd1>rosrun turtlesim turtlesim_node
 <br>
 <br>
 cmd2>cd..
+<br>
 cmd2>cd..
+<br>
 cmd2>rosrun beginner_tutorials src/mover.py
