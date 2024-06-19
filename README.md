@@ -34,13 +34,19 @@ http://wiki.ros.org/Installation/Windows
 ## Demo
 
 cmd>roscore
-
+<br>
+<br>
 cmd1>cd..
+<br>
 cmd1>cd..
+<br>
 cmd1>cd catkin_ws
+<br>
 cmd1>devel\setup.bat
+<br>
 cmd1>rosrun turtlesim turtlesim_node
-
+<br>
+<br>
 cmd2>cd..
 cmd2>cd..
 cmd2>rosrun beginner_tutorials src/mover.py
