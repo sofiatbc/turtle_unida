@@ -30,3 +30,17 @@ SOFTWARE.
 
 Ros para Windows Melodic
 http://wiki.ros.org/Installation/Windows
+
+## Demo
+
+cmd>roscore
+
+cmd1>cd..
+cmd1>cd..
+cmd1>cd catkin_ws
+cmd1>devel\setup.bat
+cmd1>rosrun turtlesim turtlesim_node
+
+cmd2>cd..
+cmd2>cd..
+cmd2>rosrun beginner_tutorials src/mover.py
